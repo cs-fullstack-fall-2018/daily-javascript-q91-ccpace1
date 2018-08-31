@@ -44,4 +44,4 @@ function printDate() {
       }
 }
 printDate();
-```
+``` My answer is Option 3
